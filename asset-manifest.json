@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/all-freecodecamp-react/static/css/main.c056ed17.chunk.css",
-    "main.js": "/all-freecodecamp-react/static/js/main.466b3543.chunk.js",
-    "main.js.map": "/all-freecodecamp-react/static/js/main.466b3543.chunk.js.map",
+    "main.js": "/all-freecodecamp-react/static/js/main.0303e5d6.chunk.js",
+    "main.js.map": "/all-freecodecamp-react/static/js/main.0303e5d6.chunk.js.map",
     "runtime-main.js": "/all-freecodecamp-react/static/js/runtime-main.aa84e950.js",
     "runtime-main.js.map": "/all-freecodecamp-react/static/js/runtime-main.aa84e950.js.map",
     "static/js/2.5c4fc8ad.chunk.js": "/all-freecodecamp-react/static/js/2.5c4fc8ad.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.aa84e950.js",
     "static/js/2.5c4fc8ad.chunk.js",
     "static/css/main.c056ed17.chunk.css",
-    "static/js/main.466b3543.chunk.js"
+    "static/js/main.0303e5d6.chunk.js"
   ]
 }
