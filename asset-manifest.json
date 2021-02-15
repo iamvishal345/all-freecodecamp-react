@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/all-freecodecamp-react/static/css/main.c056ed17.chunk.css",
+    "main.js": "/all-freecodecamp-react/static/js/main.466b3543.chunk.js",
+    "main.js.map": "/all-freecodecamp-react/static/js/main.466b3543.chunk.js.map",
+    "runtime-main.js": "/all-freecodecamp-react/static/js/runtime-main.aa84e950.js",
+    "runtime-main.js.map": "/all-freecodecamp-react/static/js/runtime-main.aa84e950.js.map",
+    "static/js/2.5c4fc8ad.chunk.js": "/all-freecodecamp-react/static/js/2.5c4fc8ad.chunk.js",
+    "static/js/2.5c4fc8ad.chunk.js.map": "/all-freecodecamp-react/static/js/2.5c4fc8ad.chunk.js.map",
+    "index.html": "/all-freecodecamp-react/index.html",
+    "static/css/main.c056ed17.chunk.css.map": "/all-freecodecamp-react/static/css/main.c056ed17.chunk.css.map",
+    "static/js/2.5c4fc8ad.chunk.js.LICENSE.txt": "/all-freecodecamp-react/static/js/2.5c4fc8ad.chunk.js.LICENSE.txt",
+    "static/media/clap.7ca33eda.wav": "/all-freecodecamp-react/static/media/clap.7ca33eda.wav",
+    "static/media/kick.d89f41a5.wav": "/all-freecodecamp-react/static/media/kick.d89f41a5.wav",
+    "static/media/kick_zapper.25f2285b.wav": "/all-freecodecamp-react/static/media/kick_zapper.25f2285b.wav",
+    "static/media/openhat_acoustic.482e5231.wav": "/all-freecodecamp-react/static/media/openhat_acoustic.482e5231.wav",
+    "static/media/ride_acoustic.44e63854.wav": "/all-freecodecamp-react/static/media/ride_acoustic.44e63854.wav",
+    "static/media/snare.9deb8698.wav": "/all-freecodecamp-react/static/media/snare.9deb8698.wav",
+    "static/media/snare_analog.6e97a6c6.wav": "/all-freecodecamp-react/static/media/snare_analog.6e97a6c6.wav",
+    "static/media/snare_modular.e21a513b.wav": "/all-freecodecamp-react/static/media/snare_modular.e21a513b.wav",
+    "static/media/tom_fm.b07fea01.wav": "/all-freecodecamp-react/static/media/tom_fm.b07fea01.wav",
+    "static/media/twitter.730fc25d.svg": "/all-freecodecamp-react/static/media/twitter.730fc25d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa84e950.js",
+    "static/js/2.5c4fc8ad.chunk.js",
+    "static/css/main.c056ed17.chunk.css",
+    "static/js/main.466b3543.chunk.js"
+  ]
+}
