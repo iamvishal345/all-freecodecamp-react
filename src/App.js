@@ -10,7 +10,7 @@ import MarkDownPreviewer from "./apps/markdown-previewer/App";
 function App() {
   return (
     <main>
-      <Router>
+      <Router basename="/all-freecodecamp-react">
         <BackButton />
         <Suspense fallback={<div>Loading...</div>}>
           <Switch>
